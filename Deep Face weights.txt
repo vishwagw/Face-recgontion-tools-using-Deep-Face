@@ -1,0 +1,2 @@
+you can download the wieghts from this GitHub repository:
+https://github.com/serengil/deepface_models.git
